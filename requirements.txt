@@ -1,0 +1,12 @@
+streamlit
+chromadb
+langchain
+langchain-community
+langchain-core
+langchain-openai
+openai
+python-multipart
+python-dotenv
+langserve
+tiktoken
+-e .
