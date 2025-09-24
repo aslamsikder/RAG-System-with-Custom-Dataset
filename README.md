@@ -1,6 +1,6 @@
 # RAG-System-with-Custom-Dataset
 
-## RAG System for Answering the Question with related Explanation
+## RAG System for Answering the Question with Related Explanation
 
 ### Project Overview
 This project implements a modular question answering system using LangChain, OpenAI GPT models, and Chroma vector embeddings. Users can ask questions in Bangla or English, and the system retrieves relevant context from a CSV dataset, then generates step-by-step answers using an LLM.
@@ -32,7 +32,7 @@ conda activate RAGSystem
 ```bash
 pip install -r requirements.txt
 ```
-### 3. Set API Key (Keep your all API in .env file) - best approach
+### 3. Set API Key (Keep all your API in the .env file) - best approach
 Create a `.env` file in the project root:
 ```
 OPENAI_API_KEY = "your_key_here"
@@ -54,7 +54,7 @@ RAG-System-with-Custom-Dataset/
 ├──data/
 |   └── questions.csv       # CSV dataset
 ├── research/
-│   └── experiment.ipynb    # First I explored the full project here before writing moduler structure code
+│   └── experiment.ipynb    # First, I explored the full project here before writing modular structure code
 ├── src/                    # Start Modular Coding
 │   ├─ __init__.pt.py
 │   ├─ app.py               # Main Streamlit app with auto metrics
@@ -67,21 +67,21 @@ RAG-System-with-Custom-Dataset/
 └── README.md
 └── requirements.txt        # All required library is saved here
 └── setup.py
-└── streamlit_app.py        # Complete project in one file just for test purpose, after doing research  
+└── streamlit_app.py        # Complete project in one file just for test purposes, after doing research  
 └── .env                    # All API Key is stored here
 ```
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - `Streamlit`
 - `LangChain`
-- `OpenAI` 
+- `OpenAI`     # LLM model = "gpt-3.5-turbo-0125"
 - `ChromaDB`
 ---
 
-## 📌 Example Output
+## Example Output
 
 | Question                                            | Answer        | Explanation                                     |
 |-----------------------------------------------------|---------------|-------------------------------------------------|
@@ -89,8 +89,8 @@ RAG-System-with-Custom-Dataset/
 
 ---
 
-## ✍️ Author
-Developed by **Aslam Sikder**, September 2025  
+## Author
+Developed by **Engr. Aslam Sikder**, September 2025  
 Email: [aslamsikder.edu@gmail.com](mailto:aslamsikder.edu@gmail.com)  
 LinkedIn: [Aslam Sikder - Linkedin](https://www.linkedin.com/in/aslamsikder)  
 Google Scholar: [Aslam Sikder - Google Scholar](https://scholar.google.com/citations?hl=en&user=Ip1qQi8AAAAJ)
