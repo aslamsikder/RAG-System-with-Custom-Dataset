@@ -91,8 +91,8 @@ RAG-System-with-Custom-Dataset/
 
 ## ✍️ Author
 Developed by **Aslam Sikder**, October 2025  
-Email: [aslamsikder.edu@gmail.com](mailto:aslamsikder.edu@gmail.com)  
-LinkedIn: [Aslam Sikder - LinkedIn Account](https://www.linkedin.com/in/aslamsikder)
-Kaggle: [Aslam Sikder - Kaggle Account](https://www.kaggle.com/aslamsikder)
-HuggingFace: [Aslam Sikder - Huggingface Account](https://huggingface.co/aslamsikder)
+Email: [aslamsikder.edu@gmail.com](mailto:aslamsikder.edu@gmail.com)   
+LinkedIn: [Aslam Sikder - LinkedIn Account](https://www.linkedin.com/in/aslamsikder)   
+Kaggle: [Aslam Sikder - Kaggle Account](https://www.kaggle.com/aslamsikder)   
+HuggingFace: [Aslam Sikder - Huggingface Account](https://huggingface.co/aslamsikder)   
 Google Scholar: [Aslam Sikder - Google Scholar Account](https://scholar.google.com/citations?hl=en&user=Ip1qQi8AAAAJ)
